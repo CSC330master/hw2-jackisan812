@@ -1,0 +1,36 @@
+1.
+Linux commands
+pwd: I used this Linux command to tell me what directory I was in.
+mkdir: I used this Linux command to create the homework directory.
+cd: I used this command to travel between directories.
+ls: I used this command to see what files are in a directory.
+cat: This command is used to show the contents of a file.
+pico: Not sure if this should be included in this list of commands but I used this to open, edit and create files.
+
+2.
+Git commands
+git config: This command is a convenience function that is used to set Git configuration values on a global
+or local project level.
+git clone: This command was used to copy the Github repository to the local machine.
+git status: This command informs you of the state of the local repository.  
+It will show any modified files, or ones that are ready to be pushed to Github.
+git add: adds a file or a group of files to the list of files to be updated in the next commit.
+git commit: commits the changes that were added with git add.
+git push: pushes or uploads the committed changes in the local repository to the Github repository.
+
+3i.
+If I collaborate with other students I need to include their names in my references document and if not,
+I need to state that I didn't work with anyone.  Also, I can't do homework with people outside of my group.
+Which I assume means people not in the class.
+
+3ii.
+I can consult any external resources except for gernerative AI tools, like ChatGPT.
+Those external resources I use must also be included in the references document.
+
+3iii.
+Late assignments will be accepted however, for each day an assignment is late, a 10% penalty will be applied.
+
+3iv.
+The penalty for missing classes is simply finding out yourself what was missed and
+making it up if the professor permits.  If the student has missed a significant portion of coursework through
+absence, the penalty would possibly be withdrawl or late withdrawl.
